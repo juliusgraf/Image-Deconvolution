@@ -9,3 +9,5 @@ où $d_1$ est un filtre laplacien 2D.
 - Par régularisation convexe préservant les contours : 
 $$\mathcal{F}_\alpha(x) = \lVert y - h \star x \rVert_2^2 + \alpha \sum _{p\sim q} \varphi(x_p - x_q)$$ 
 où $\varphi(t) = \sqrt{t^2 + T^2} - T$.
+
+Une rapide présentation des principaux résultats obtenus se trouve dans le fichier _presentation_image_deconvolution.pdf_.
