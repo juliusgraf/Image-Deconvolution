@@ -1,4 +1,4 @@
-# Image-Deconvolution
+# Image Deconvolution
 
 L'objectif est d'estimer une image nette $\widehat{x}[m,n]$ à partir d'une image floue $y[m,n]$ obtenue par convolution de l'image nette $x[m,n]$ avec la réponse impulsionnelle $h[p,q]$, suivie d'une corruption par bruit additif $\epsilon[m,n]$. Pour cela, on cherche à minimiser un critère des moindres carrés $\mathcal{F}(x) = \lVert y - h \star x \rVert_2^2$, auquel on ajoute une régularisation :
 
