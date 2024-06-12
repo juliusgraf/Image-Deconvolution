@@ -11,3 +11,7 @@ $$\mathcal{F}_\alpha(x) = \lVert y - h \star x \rVert_2^2 + \alpha \sum _{p\sim 
 où $\varphi(t) = \sqrt{t^2 + T^2} - T$.
 
 Une rapide présentation des principaux résultats obtenus se trouve dans le fichier _presentation_image_deconvolution.pdf_.
+
+## Acknowledgements
+
+This project was conducted in the context of the elective course "Numerical Image Processing" taught by Charles Soussen and Élisabeth Lahalle from L2S CentraleSupélec. The project team included Arthur Vogels.
